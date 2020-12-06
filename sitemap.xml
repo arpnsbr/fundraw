@@ -426,11 +426,6 @@
 		</url>
 
 		<url>
-			<loc>https://fundrawing.netlify.app/cool-things-to-draw.html</loc>
-			<changefreq>daily</changefreq>
-		</url>
-
-		<url>
 			<loc>https://fundrawing.netlify.app/easy-things-to-draw.html</loc>
 			<changefreq>daily</changefreq>
 		</url>
@@ -6046,11 +6041,6 @@
 		</url>
 
 		<url>
-			<loc>https://fundrawing.netlify.app/things-to-draw.html</loc>
-			<changefreq>daily</changefreq>
-		</url>
-
-		<url>
 			<loc>https://fundrawing.netlify.app/draw-easy.html</loc>
 			<changefreq>daily</changefreq>
 		</url>
@@ -6589,12 +6579,7 @@
 			<loc>https://fundrawing.netlify.app/what-to-draw-easy.html</loc>
 			<changefreq>daily</changefreq>
 		</url>
-
-		<url>
-			<loc>https://fundrawing.netlify.app/things-to-draw-sketch.html</loc>
-			<changefreq>daily</changefreq>
-		</url>
-
+		
 		<url>
 			<loc>https://fundrawing.netlify.app/cool-designs-to-draw.html</loc>
 			<changefreq>daily</changefreq>
@@ -8559,12 +8544,7 @@
 			<loc>https://fundrawing.netlify.app/easy-to-draw-cool-pictures.html</loc>
 			<changefreq>daily</changefreq>
 		</url>
-
-		<url>
-			<loc>https://fundrawing.netlify.app/30-easy-things-to-draw.html</loc>
-			<changefreq>daily</changefreq>
-		</url>
-
+		
 		<url>
 			<loc>https://fundrawing.netlify.app/cool-pics-to-draw-easy.html</loc>
 			<changefreq>daily</changefreq>
